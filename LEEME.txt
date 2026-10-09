@@ -1,0 +1,10 @@
+DERRIBO — app web instalable
+
+Esta carpeta es el juego completo. Para instalarlo en un iPhone hay que servirla por HTTPS:
+
+1. Sube el contenido de esta carpeta a un alojamiento estático (GitHub Pages, Netlify, Cloudflare Pages).
+2. Abre la dirección en Safari en el iPhone.
+3. Botón Compartir → «Añadir a pantalla de inicio».
+
+A partir de ahí se abre a pantalla completa, con su icono, y funciona sin conexión.
+El progreso se guarda en el propio teléfono.
